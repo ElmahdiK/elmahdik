@@ -6,8 +6,8 @@
 
 
 - 👨‍💻 I’m currently working on <a href="https://elmahdik.github.io/" target="_blank">personal projects</a>
-- 🥷 Available for a fullstack developer position [React/Node.js] 🌍
-- 🔥 See my last React project 👉 <a href="https://elmahdik.github.io/assets/portfolio/services/flags/" target="_blank">Flags !</a>
+- 🥷 Available for a fullstack developer position [React/Node.js]
+- 🔥 See my last React project 👉 <a href="https://elmahdik.github.io/assets/portfolio/services/flags/" target="_blank">Flags ! 🌍</a>
 
 ## :computer: Skills
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
