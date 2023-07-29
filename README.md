@@ -6,7 +6,6 @@
 
 
 - 👨‍💻 I’m currently working on <a href="https://elmahdik.github.io/" target="_blank">personal projects</a>
-- 🥷 Available for a fullstack developer position [React/Node.js]
 - 🔥 See my last React project 👉 <a href="https://elmahdik.github.io/assets/portfolio/services/flags/" target="_blank">Flags ! 🌍</a>
 
 ## :computer: Skills
@@ -34,8 +33,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmahdikorfed/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmahdi.korfed@gmail.com) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmahdik&show_icons=true&locale=en&layout=compact" alt="elmahdik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmahdik&show_icons=true&locale=en" alt="elmahdik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmahdik&" alt="elmahdik" /></p>
+<details>
+  <summary><h3>My Stats</h3></summary>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmahdik&show_icons=true&locale=en&layout=compact" alt="elmahdik" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmahdik&show_icons=true&locale=en" alt="elmahdik" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmahdik&" alt="elmahdik" /></p>
+</details>
