@@ -36,6 +36,6 @@
 <details>
   <summary><h3>My Stats</h3></summary>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmahdik&show_icons=true&locale=en&layout=compact" alt="elmahdik" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmahdik&show_icons=true&locale=en" alt="elmahdik" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elmahdik&show_icons=true&locale=en" alt="elmahdik" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmahdik&" alt="elmahdik" /></p>
 </details>
