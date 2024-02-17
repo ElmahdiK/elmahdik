@@ -43,6 +43,6 @@
 
 <div align="center">
   <a href="https://app.daily.dev/elmahdi91">
-    <img src="https://github.com/elmahdiK/elmahdik/blob/main/devcard.png" width="652" alt="Elmahdi's Dev Card"/>
+    <img src="https://github.com/elmahdiK/elmahdik/blob/main/devcard.svg" width="652" alt="Elmahdi's Dev Card"/>
   </a>
 </div>
