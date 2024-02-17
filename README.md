@@ -41,4 +41,8 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmahdik&" alt="elmahdik" /></p>
 </details>
 
-<a href="https://app.daily.dev/elmahdi91" align="center"><img src="https://api.daily.dev/devcards/v2/e6xN2NmaRgh93jto0yBWt.png?r=4g1&type=wide" width="652" alt="Elmahdi's Dev Card"/></a>
+<div align="center">
+  <a href="https://app.daily.dev/elmahdi91">
+    <img src="https://api.daily.dev/devcards/v2/e6xN2NmaRgh93jto0yBWt.png?r=4g1&type=wide" width="652" alt="Elmahdi's Dev Card"/>
+  </a>
+</div>
