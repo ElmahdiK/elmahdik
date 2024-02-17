@@ -18,7 +18,7 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@3.0.0
         with:
-          user_id: e6xN2NmaRgh93jto0yBWt
+          user_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: devcard
           commit_filename: devcard.png
           commit_message: "chore: update ${filename}"
