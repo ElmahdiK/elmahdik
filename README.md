@@ -6,7 +6,7 @@
 
 
 - 👨‍💻 I’m currently working on <a href="https://elmahdik.github.io/" target="_blank">personal projects</a>
-- 🔥 See my last React project 👉 <a href="https://elmahdik.github.io/assets/portfolio/services/flags/" target="_blank">Flags ! 🌍</a>
+- 🔥 See my last React project 👉 <a href="https://elmahdik.github.io/assets/projects/flags/" target="_blank">Flags ! 🌍</a>
 - 📄 Check out my <a href="https://elmahdik.github.io/assets/cv/cv-elmahdi_korfed.pdf" target="_blank">Resume</a>
 
 ## :computer: Skills
