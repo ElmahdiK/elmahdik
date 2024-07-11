@@ -33,9 +33,3 @@
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmahdikorfed/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmahdi.korfed@gmail.com) 
-
-<div align="center">
-  <a href="https://app.daily.dev/elmahdi91">
-    <img src="https://github.com/ElmahdiK/elmahdik/blob/devcard/devcard.png" width="326" alt="Elmahdi's Dev Card"/>
-  </a>
-</div>
