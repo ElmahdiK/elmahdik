@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Elmahdi</h1>
-<h3 align="center">{ A passionate fullstack web developer from France }</h3>
+<h1 align="center">Hi 👋 I'm Elmahdi</h1>
+<h3 align="center">{ A passionate fullstack web developer }</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmahdik&label=Profile%20views&color=0e75b6&style=flat" alt="elmahdik" /> </p>
 
-
 - 👨‍💻 I’m currently working on <a href="https://elmahdik.github.io/" target="_blank">personal projects</a>
-- 🔥 See my last React project 👉 <a href="https://elmahdik.github.io/assets/projects/flags/" target="_blank">Flags ! 🌍</a>
+- 🔥 See my last React project 👉 <a href="https://elmahdik.github.io/flags/" target="_blank">Flags ! 🌍</a>
 - 📄 Check out my <a href="https://elmahdik.github.io/assets/cv/cv-elmahdi_korfed.pdf" target="_blank">Resume</a>
 
 ## :computer: Skills
