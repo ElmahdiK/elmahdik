@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Elmahdi</h1>
+<h1 align="center">Hi <img height="40" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif"/> I'm Elmahdi</h1>
 <h3 align="center">{ A passionate fullstack web developer }</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
