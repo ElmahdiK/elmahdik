@@ -2,6 +2,7 @@
 <h3 align="center">{ A passionate fullstack web developer }</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+### :fountain_pen: About
 - 👨‍💻 I’m currently working on <a href="https://elmahdik.github.io/" target="_blank">personal projects</a>
 - 🔥 See my last React project 👉 <a href="https://elmahdik.github.io/flags/" target="_blank">Flags ! 🌍</a>
 - 📄 Check out my <a href="https://elmahdik.github.io/cv/resume-KORFED.pdf" target="_blank">Resume</a>
