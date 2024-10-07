@@ -5,7 +5,7 @@
 ### :fountain_pen: About
 - 👨‍💻 I’m currently working on <a href="https://elmahdik.github.io/" target="_blank">personal projects</a>
 - 🔥 See my last React project 👉 <a href="https://elmahdik.github.io/flags/" target="_blank">Flags ! 🌍</a>
-- 📄 Check out my <a href="https://elmahdik.github.io/cv/resume-KORFED.pdf" target="_blank">Resume</a>
+- 📄 Check out my <a href="https://elmahdik.github.io/assets/cv/CV_KORFED_Elmahdi.pdf" target="_blank">Resume</a>
 - 👍 You're welcome to <a href="https://www.linkedin.com/in/elmahdikorfed/" target="_blank">my LinkedIn profile</a>
 
 ### :computer: Skills
